@@ -1,0 +1,62 @@
+# Java related
+*jar
+*.class
+
+# Eclipse
+.classpath
+.project
+.settings
+
+# Leiningen
+classes/
+lib/
+native/
+checkouts/
+target/
+.lein-deps-sum
+.lein-failures
+.lein-repl-history
+.lein-cljsbuild-repl
+.lein-plugins/
+repl-port
+.nrepl-port
+.repl
+.lein-deps-tree
+.lein-env
+
+# Temp Files
+tmp/
+*.orig
+*~
+.*.swp
+.*.swo
+*.tmp
+*.bak
+[#]*[#]
+.\#*
+.vscode/
+
+# Editors (IntelliJ / Eclipse)
+*/.idea
+*/.classpath
+*/.project
+*/.settings
+*.iml
+.vscode/
+
+# OS X
+.DS_Store
+
+# Logging
+*.log
+logs/
+
+# Docs
+autodoc/
+docs
+
+
+
+# hadi
+.directory
+.idea/
